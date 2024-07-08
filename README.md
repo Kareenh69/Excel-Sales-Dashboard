@@ -25,6 +25,7 @@ The analysis results are summarized as follows
 - The company's sales have been steadily increased over the past 2 years
 - The product "item 1" is the best performing product in terms of sales and revenue
 
-![DASHBOARD](2024-07-04.PNG) 
 
-![2024-07-04 (1)](https://github.com/Kareenh69/Projects/assets/169944879/358286b6-8680-4cfc-90ce-6da720c3e878)
+
+
+

@@ -26,6 +26,6 @@ The analysis results are summarized as follows
 - The product "item 1" is the best performing product in terms of sales and revenue
 
 
-
+![2024-07-04 (1)](https://github.com/Kareenh69/Projects/assets/169944879/7a59e580-6130-433d-bfa2-dabcbdb5bcd6)
 
 
